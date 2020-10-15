@@ -1,5 +1,5 @@
 classes=1
 train=train.txt
 valid=test.txt
-names=custom.names
+names=./detection/custom.names
 backup=/kaggle/working/backup
